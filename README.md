@@ -276,8 +276,8 @@ CRLF-CIFAR10/
 ## 👨‍💻 Author
 
 **MD AYAN**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@domain.com
+- GitHub: [@mdayan8](https://github.com/mdayan8)
+- Email: mdayanbag@gmail.com
 - Affiliation: Independent Researcher
 
 ## 📄 License
